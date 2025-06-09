@@ -1,4 +1,4 @@
-# Chrome-Extension-Test-Project
+# Project 1 : Reading Time
 
 ## Overview
 
@@ -25,5 +25,3 @@ This Chrome extension calculates and displays the estimated **reading time** for
 3. You should see the **reading time displayed on the page** like this:
 
    ![Reading time example](images/description_image.png)
-
-> Make sure to replace `images/example-reading-time.png` with your actual screenshot path if different.
